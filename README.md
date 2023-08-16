@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kantisarah
-- 👀 I’m interested in web design and development .
-- 🌱 I’m currently learning Java script 
+- 👀 I’m a front end web developer .
+- 🌱 I’m currently working on with html css and Java script 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can rich me via my email kantisarah@gmail.com
 
